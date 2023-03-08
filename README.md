@@ -5,4 +5,5 @@ Eğitimler sırasında çözdüğüm [HackerRank](https://www.hackerrank.com) ch
 ## Çözülen Problemler
 
 1-[DefaultDict](https://www.hackerrank.com/challenges/defaultdict-tutorial/problem)
-2-[ListComprehension] (https://www.hackerrank.com/challenges/list-comprehensions/problem)
+
+2-[ListComprehension](https://www.hackerrank.com/challenges/list-comprehensions/problem)
