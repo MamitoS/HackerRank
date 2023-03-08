@@ -11,3 +11,5 @@ Eğitimler sırasında çözdüğüm [HackerRank](https://www.hackerrank.com) ch
 3-[PrintFunction](https://www.hackerrank.com/challenges/python-print/problem)
 
 4-[Write a function](https://www.hackerrank.com/challenges/write-a-function/problem)
+
+5-[Mutations](https://www.hackerrank.com/challenges/python-mutations/problem)
